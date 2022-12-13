@@ -8,3 +8,5 @@ poetry.lock
 pyproject.toml
 venv
 bin
+debug.log
+pyvenv.cfg
