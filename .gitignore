@@ -1,0 +1,10 @@
+.idea
+.DS_store
+lib
+.env
+__pycache__
+logs
+poetry.lock
+pyproject.toml
+venv
+bin
